@@ -4,7 +4,7 @@
 <p> Hello World! in HTML </p>
 
 <?php                                                                        
-	echo "<p>Hello World! in PHP </p>";
+	echo "<p>Hello World! update</p>";
 ?>                                             
 
 </body>
