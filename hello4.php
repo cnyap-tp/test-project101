@@ -1,5 +1,5 @@
 <?php
-    $myname="Mary";
+    $myname="mary";
 ?>
 
 <html>
